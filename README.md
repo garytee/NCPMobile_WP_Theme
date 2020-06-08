@@ -1,1 +1,1 @@
-# NCPMobile_WP_Theme
+# Wordpress Theme for http://ncpmobile.com/
